@@ -8,7 +8,7 @@ export default function Card(props){
         <div className='card'>
             <img  className='katie' src={props.img} alt="katie" />
               <div className='testdiv'> <img  className='star' src={Star} alt="star" />
-            <p className='rate'>{props.rating}.0 </p>
+            <p className='rate'>{props.rating} </p>
             <p className='usa'>({props.reviewcount}) <img src={Ellipse} alt="ellipse" />{props.country}</p></div>
             <p className='textdiv2'>{props.title}
             </p>
