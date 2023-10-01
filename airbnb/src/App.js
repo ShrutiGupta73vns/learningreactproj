@@ -1,12 +1,7 @@
-
 import './App.css';
-
-import  Wedding from './assets/Wedding.jpg' 
-import katie from './assets/Katie.png' 
 import Navbar from './components/Navbar';
 import Body from './components/Body';
 import Card from './components/Card';
-import  Bike from './assets/Bike.jpg' ;
 import data from './assets/data'
 
 function App() {

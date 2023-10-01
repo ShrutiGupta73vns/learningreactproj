@@ -1,4 +1,3 @@
- import Katie from '../assets/Katie.png'
 import Star from '../assets/Star.svg'
 import Ellipse from '../assets/Ellipse.svg'
 
