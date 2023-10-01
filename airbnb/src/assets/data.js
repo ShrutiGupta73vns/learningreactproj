@@ -1,7 +1,7 @@
-export default [
+const data = [
   {
     id: 1,
-    img: "Katie.jpg",
+    img: "Katie.png",
     rating: 5.0,
     reviewcount: 6,
     country: "USA",
@@ -27,3 +27,5 @@ export default [
     price: 50,
   },
 ];
+
+export default data;
