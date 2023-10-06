@@ -19,6 +19,7 @@
 .image {
   margin-left: 20%;
   margin-top: 4%;
+
 }
 
 .heading {
@@ -44,7 +45,7 @@
 .katie {
   border-radius: 9px;
   height: 300px;
-  width: 250px;
+  width: 235px;
 }
 
 .card {
@@ -77,6 +78,9 @@
   font-size: 18px;
   margin-left: 5px;
   margin-top: 6px;
+  width:100px;
+  
+
 }
 
 .testdiv {
@@ -136,4 +140,9 @@
   border-radius: 2px;
   font-weight: bold;
  
+}
+
+.dot{
+  margin-bottom: 5%;
+  padding-right: 1%;
 }
