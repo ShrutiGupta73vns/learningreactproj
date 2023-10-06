@@ -1,12 +1,14 @@
 export default [
   {
     id: 1,
-    img: "Katie.jpg",
+    img: "Katie.png",
     rating: 5.0,
     reviewcount: 6,
     country: "USA",
     title: "Life lessons with Katie Zaferes",
     price: 136,
+    openspots:0,
+    mode:"offline"
   },
   {
     id: 2,
@@ -16,6 +18,8 @@ export default [
     country: "USA",
     title: "Learn wedding photography",
     price: 125,
+    openspots:27,
+    mode:"online"
   },
   {
     id: 3,
@@ -25,5 +29,7 @@ export default [
     country: "USA",
     title: "Group Mountain biking",
     price: 50,
+    openspots:3,
+    mode:"offline"
   },
 ];

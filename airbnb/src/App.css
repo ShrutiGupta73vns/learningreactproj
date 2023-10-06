@@ -6,6 +6,7 @@
 
   margin-left: 20px;
   padding-top: 20px;
+  
 }
 
 .navbar {
@@ -49,6 +50,10 @@
 .card {
   margin-left: 5%;
   flex-direction: row;
+  position: relative;
+  
+
+
 }
 
 .star {
@@ -119,4 +124,16 @@
 .card_container{
   display:flex;
 
+}
+
+.badge{
+  position: absolute;
+  top:10px;
+  left:10px;
+  background-color: white;
+  padding-left:2%;
+  padding-right:2%;
+  border-radius: 2px;
+  font-weight: bold;
+ 
 }

@@ -1,0 +1,122 @@
+.navbar{
+    background-color:#F55A5A ;
+    display:flex;
+    justify-content: center;
+    height:75px;
+}
+
+.logo{
+    margin-top: 18px;
+    margin-bottom: 18px;
+    width: 50px; ;
+}
+.heading{
+    color:#FFF;
+    font-family: Inter;
+    font-style: normal;
+    font-size: 25px;
+    font-weight: 500;
+    letter-spacing: -1.085px;
+
+}
+
+.image{
+    width: 200px;
+    height: 250px;
+    border-radius: 5px;
+    margin-top: 5%;
+    margin-left: 4%;
+
+}
+
+.gps{
+    height:70px;
+    width:15px;
+    
+}
+
+.location{
+    display: flex;
+    justify-content:start;
+    margin-bottom: 0px;
+    
+    height:50px
+    
+}
+
+.containers{
+    display: flex;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+.text{
+    margin-left: 35px;
+
+}
+
+.country{
+    margin-left: 5px;
+    margin-top: 28px;
+    color: #2B283A;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 1.741px;
+}
+
+.anchor{
+    color: #918E9B;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+    font-size: 17px;
+    margin-left: 15px;
+    margin-top: 25px;
+
+}
+
+.desti{
+    color: #2B283A;
+    font-family: Inter;
+    font-size:40px;
+    font-weight: 700;
+    font-style: normal;
+    width:100%;
+    margin-top:0px ;
+    
+    margin-bottom: 0px;
+}
+.date{
+    color: #2B283A;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-style:'Courier New', Courier, monospace;
+    font-weight: 700;
+    font-size:large;
+    letter-spacing: 1px;
+    margin-top: 25px;
+}
+.description{
+    color: #2B283A;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 450;
+    line-height: 25px;
+    width:600px;
+    font-size: 17px;
+    
+
+
+}
+
+.line{
+
+    width:94%;
+    margin-top: 35px;
+
+   
+
+}
