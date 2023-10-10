@@ -47,19 +47,51 @@ letter-spacing: 1px;
 
 .inputbox{
     display: flex;
-    align-items: center;
+    
     justify-content:space-evenly;
     margin-top: 5%;
-    
-    width:70%;
-    margin-left: 15%;
+    margin-left: 25%;
+   
+    width:50%;
+   
+ 
 
 }
 .box1{
-    width:350px;
-    margin-right: 10%;
+    width:300px;
+   
+ 
 }
 .box2{
-    width:350px;
-    margin-left: 10%;
+    width: 300px;
+}
+.components{
+    display: flex;
+}
+
+.button{
+    border-radius: 5px;
+background: linear-gradient(90deg, #711F8D 1.14%, #A818DA 100%);
+width: 550px;
+height: 50px;
+margin-top: 50px;
+
+}
+
+.buttondiv{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+
+}
+
+.buttontext{
+    color: #FFF;
+text-align: center;
+font-family: Karla;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 5px;
 }
