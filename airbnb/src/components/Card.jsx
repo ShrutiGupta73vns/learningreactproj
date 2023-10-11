@@ -24,4 +24,4 @@ else badgetext=""
             <div className='textdiv3'> <p className='bold'>From ${props.item.price}</p><p className='person'>/ person</p></div>
         </div>
     )
-}
+    }
